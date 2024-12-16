@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "C:\\Users\\S.S\\eclipse-workspace\\WebAutomationTask\\resources\\testng-1.0.dtd">
+<suite name="LoginTestSuite">
+    <test name="LoginTests">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
